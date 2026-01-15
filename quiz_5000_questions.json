@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the national flower of Nepal?",
+    "options": ["Lotus", "Rhododendron", "Sunflower", "Rose"],
+    "answer": 1
+  },
+  {
+    "question": "Which plant is used to make traditional Lokta paper in Nepal?",
+    "options": ["Bamboo", "Pine", "Lokta", "Teak"],
+    "answer": 2
+  },
+  {
+    "question": "Which festival is known as the festival of lights in Nepal?",
+    "options": ["Dashain", "Tihar", "Holi", "Teej"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first king of unified Nepal?",
+    "options": [
+      "Pratap Malla",
+      "Jung Bahadur Rana",
+      "Prithvi Narayan Shah",
+      "King Mahendra"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which year did the Anglo-Nepal War begin?",
+    "options": ["1801 AD", "1814 AD", "1820 AD", "1836 AD"],
+    "answer": 1
+  },
+  {
+    "question": "Which treaty ended the Anglo-Nepal War?",
+    "options": [
+      "Treaty of Pokhara",
+      "Treaty of Thapathali",
+      "Treaty of Sugauli",
+      "Treaty of Kathmandu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which mountain is the main tourist attraction of Nepal?",
+    "options": ["Kanchenjunga", "Annapurna", "Mount Everest", "Dhaulagiri"],
+    "answer": 2
+  },
+  {
+    "question": "Lumbini is the birthplace of whom?",
+    "options": ["Guru Nanak", "Mahavira", "Gautam Buddha", "Ashoka"],
+    "answer": 2
+  },
+  {
+    "question": "What was the main occupation of people in traditional Nepal?",
+    "options": ["Trade", "Agriculture", "Industry", "Mining"],
+    "answer": 1
+  },
+  {
+    "question": "Which national park is famous for the one-horned rhinoceros?",
+    "options": ["Sagarmatha", "Langtang", "Chitwan", "Rara"],
+    "answer": 2
+  }
+]
